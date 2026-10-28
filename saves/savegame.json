@@ -1,0 +1,78 @@
+{
+ "version": 2,
+ "clock": "2026-10-28T16:58:36",
+ "day_unstarted": false,
+ "summary_pending": false,
+ "day": 1,
+ "minute": 1018.6,
+ "speed": 1,
+ "pet": {
+  "name": "Mochi",
+  "hp": 100,
+  "hunger": 0.04557128999999995,
+  "happiness": 94.97394222291659,
+  "weight": 4.11591426231,
+  "last_pet_minute": 2457.9833333333336,
+  "last_play_minute": -999,
+  "vitamins_day": -1,
+  "fainted": false
+ },
+ "wallet": {
+  "balance": 500,
+  "history": []
+ },
+ "inventory": {
+  "kibble": 1.0
+ },
+ "schedule": [
+  {
+   "name": "Breakfast",
+   "time": 480,
+   "status": "skipped",
+   "fed_at": -1,
+   "reminded": false,
+   "overdue_alerted": false
+  },
+  {
+   "name": "Lunch",
+   "time": 750,
+   "status": "skipped",
+   "fed_at": -1,
+   "reminded": false,
+   "overdue_alerted": false
+  },
+  {
+   "name": "Dinner",
+   "time": 1110,
+   "status": "upcoming",
+   "fed_at": -1,
+   "reminded": false,
+   "overdue_alerted": false
+  }
+ ],
+ "notifier": {
+  "log": [
+   {
+    "kind": "info",
+    "level": "info",
+    "text": "Welcome! Mochi is counting on you. Dinner is at 6:30 PM.",
+    "day": 1,
+    "minute": 1017,
+    "read": false
+   }
+  ],
+  "last": {}
+ },
+ "day_over": false,
+ "summary": null,
+ "history": [],
+ "day_stats": {
+  "overfeeds": 0,
+  "underfeeds": 0,
+  "extra_meals": 1,
+  "treats": 0,
+  "plays": 0,
+  "pets": 12,
+  "vet": 0
+ }
+}
